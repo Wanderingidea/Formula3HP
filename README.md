@@ -1,5 +1,5 @@
 # Lineup's Formula3HP Headphone Amplifier
-![enclosure](https://github.com/Wanderingidea/Formula3HP/assets/42114791/b32013b2-bbdf-4d67-b492-3d04a94cd83f)
+![enclosure](https://github.com/Wanderingidea/Formula3HP/assets/42114791/5beeb39b-3402-41bb-8f09-ad7a01f713b2)
 
 This headphone amplifier built from discrete components was designed by ***Lineup***, a forum member of diyaudio.com. I slightly changed it.
 
@@ -9,7 +9,8 @@ I use it almost every day since I built it in July 2021. That proves this is a r
 
 ## Schematics
 The schematics for one channel: 
-![schematics](https://github.com/Wanderingidea/Formula3HP/assets/42114791/65f5c9c0-e7a2-48b0-9922-2b63acd67aeb)
+![schematics](https://github.com/Wanderingidea/Formula3HP/assets/42114791/5f742dc0-7333-423a-a232-daed372e9a10)
+
 
 A stereo logaritmic potmeter of 10K-50K can be used as the volume control. RL are the headphones, 32 ohm or higher. I use Beyerdynamics DT770 Pro 80 ohm headphones.
 
@@ -25,8 +26,8 @@ I used an old 12V switched power supply without any problems. The amplifier is f
 ## Simulated measurements
 Attached are the LTSpice simulation files for FFT and frequency measurements.<br>
 The following simulation graphs largely speak for themselves:
-![freq](https://github.com/Wanderingidea/Formula3HP/assets/42114791/d846f060-2235-43ff-8285-8f24ddabe9b1)
-![FFT](https://github.com/Wanderingidea/Formula3HP/assets/42114791/8869eeff-0b2d-4410-b776-b5d830df68fe)
+![freq](https://github.com/Wanderingidea/Formula3HP/assets/42114791/43f02a09-f3db-453b-9d8e-f08a0f296780)
+![FFT](https://github.com/Wanderingidea/Formula3HP/assets/42114791/637edfbb-658a-42c2-b7b2-b46d2fbb8c42)
 
 Numbers resulting from a FFT simulation:
 ```
@@ -54,27 +55,30 @@ ppsu: AVG(abs(v(v+)*i(v1)))=1.14035 FROM 0 TO 0.1
 ```
 ## PCB
 Scribble how to place the components on the perfboard: 
-![scribble](https://github.com/Wanderingidea/Formula3HP/assets/42114791/686955b2-00e0-478d-bd84-819655fadfc6)
+![scribble](https://github.com/Wanderingidea/Formula3HP/assets/42114791/5a5c339a-fe4b-4e24-bd31-a37b7794f928)
 
 ## Constructing
 The two mono boards are 'sandwiched' to be able to fit in the small enclosure: 
-![pcb](https://github.com/Wanderingidea/Formula3HP/assets/42114791/1b2ba66b-7da3-4893-a40a-7efcb419cb2d)
-![pcb2](https://github.com/Wanderingidea/Formula3HP/assets/42114791/80e815ee-e60c-4fdc-81f8-d1de0a170d27)
-![pcb3](https://github.com/Wanderingidea/Formula3HP/assets/42114791/02e514fb-9108-4528-9636-f4b992dd2b5e)
-![pcb4](https://github.com/Wanderingidea/Formula3HP/assets/42114791/c7687410-4a56-4196-9204-9ddd41ca83a1)
-![PCB III](https://github.com/Wanderingidea/Formula3HP/assets/42114791/f95fc15f-fec3-4d1b-9151-618dc412b291)
+![pcb](https://github.com/Wanderingidea/Formula3HP/assets/42114791/8a6837b6-ebe9-4da0-9689-86c483e44a45)
+![pcb2](https://github.com/Wanderingidea/Formula3HP/assets/42114791/6548a4c5-0585-4d5e-86b8-742266c1ebeb)
+![pcb3](https://github.com/Wanderingidea/Formula3HP/assets/42114791/71e4d850-029b-4991-9651-d391bc8b6636)
+![pcb4](https://github.com/Wanderingidea/Formula3HP/assets/42114791/5289aecf-3c63-41d9-85e3-2e30e4fbf31b)
+![PCB III](https://github.com/Wanderingidea/Formula3HP/assets/42114791/38999dc5-df08-49c9-8efb-bc6e547a5d7f)
 
 Being a class-A amplifier it heats up a bit, but not too much. However a ventilated enclosure is recommended.<br>
 An old piece of perfboard is used as a template to drill the ventilation holes. Use a light oil or WD40 as lubrication for the drill and take your time: 
-![drill template ventilation holes](https://github.com/Wanderingidea/Formula3HP/assets/42114791/f5bde9fb-ae85-4198-98ce-5ff7408a41aa)
+![drill template ventilation holes](https://github.com/Wanderingidea/Formula3HP/assets/42114791/c4ce4b41-0632-4a68-8967-893af275f838)
+
 After drilling all holes I brushed the aluminium. Do not use sandpaper for this but use Scotch Brite or similar, lubricated with WD40.
-![holes drilled, brushed case](https://github.com/Wanderingidea/Formula3HP/assets/42114791/22c1dd03-1e66-4f07-a598-7398deee0fc3)
-![continue1](https://github.com/Wanderingidea/Formula3HP/assets/42114791/5d19626c-91e3-41de-9f99-5133ec7447cf)
+![holes drilled, brushed case](https://github.com/Wanderingidea/Formula3HP/assets/42114791/6e6b1db1-52f8-41b8-8e02-fa7d927ed0c7)
+![continue1](https://github.com/Wanderingidea/Formula3HP/assets/42114791/953c6fad-ca6c-472d-bb7d-f89165cf6d80)
+
 I stripped an old cat-5 network cable to use the internal cables for audio.<br>
 All ground cabling is connected at the back of the enclosure soldered to a screw. It is not necessary to isolate the input, output and power input from ground. 
-![continue2](https://github.com/Wanderingidea/Formula3HP/assets/42114791/f13c28b0-7867-4b94-aac4-e926e6b4dd44)
+![continue2](https://github.com/Wanderingidea/Formula3HP/assets/42114791/75f9b5a0-d77a-4d9c-9012-36b252244a13)
+
 Finished
-![finished](https://github.com/Wanderingidea/Formula3HP/assets/42114791/f9ce640e-6cea-4e4c-9fc3-52ee081452ac)
+![finished](https://github.com/Wanderingidea/Formula3HP/assets/42114791/6aca888e-5836-42b1-97b1-27ef55015564)
 
 ## Troubleshooting
 If you hear strange whistles or other weird noises coming out of the headphones but the amplifier is working, chances are the amplifier is oscillating.
