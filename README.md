@@ -71,7 +71,7 @@ After drilling all holes I brushed the aluminium. Do not use sandpaper for this 
 ![holes drilled, brushed case](https://github.com/Wanderingidea/Formula3HP/assets/42114791/22c1dd03-1e66-4f07-a598-7398deee0fc3)
 ![continue1](https://github.com/Wanderingidea/Formula3HP/assets/42114791/5d19626c-91e3-41de-9f99-5133ec7447cf)
 I stripped an old cat-5 network cable to use the internal cables for audio.<br>
-All ground cabling is connected at the back of the enclosure soldered to a screw. It is not necessary to isolate the input and output from ground. 
+All ground cabling is connected at the back of the enclosure soldered to a screw. It is not necessary to isolate the input, output and power input from ground. 
 ![continue2](https://github.com/Wanderingidea/Formula3HP/assets/42114791/f13c28b0-7867-4b94-aac4-e926e6b4dd44)
 Finished
 ![finished](https://github.com/Wanderingidea/Formula3HP/assets/42114791/f9ce640e-6cea-4e4c-9fc3-52ee081452ac)
