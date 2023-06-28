@@ -9,7 +9,7 @@ It is very easy to build, beginner friendly I think, uses cheap components, Clas
 The schematics for one channel: 
 ![schematics](https://github.com/Wanderingidea/Formula3HP/assets/42114791/3dda5de3-4028-4926-b555-d6ee216e206e)
 
-U1 (volume) is a logaritmic stereo potmeter, U2 (balance) is a lineair mono potmeter. If balance control is not used, R9 can be omitted. R8 are the headphones, 32 ohm or higher.
+A stereo logaritmic potmeter of 10K-50K can be used as the volume control. RL are the headphones, 32 ohm or higher.
 
 Q1 and Q2 can be replaced with BC547 and BC557 respectively. For Q3 originally a BD139 transistor was used. Like said the circuit is pretty tolerant of using different components. I mostly used leftover components without problems.
 
