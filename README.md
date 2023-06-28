@@ -1,7 +1,7 @@
 # Lineup's Formula3HP Headphone Amplifier
 ![enclosure](https://github.com/Wanderingidea/Formula3HP/assets/42114791/b32013b2-bbdf-4d67-b492-3d04a94cd83f)
 
-This headphone amplifier built from discrete components is a big step forward from a Cmoy like headphone amplifier. It was designed by ***Lineup***, a forum member of diyaudio.com. I slightly changed it.
+This headphone amplifier built from discrete components was designed by ***Lineup***, a forum member of diyaudio.com. I slightly changed it.
 
 It is very easy to build, beginner friendly I think, simple, uses cheap components, Class-A, tolerant, and sounds fantastic. My first impression is the power and impact it has, without raising the volume.
 "Smooth", "impressed", "nice clarity and detail", "Vocals are clear and bass is good" are a few comments. Without exaggeration I fully endorse these.
