@@ -77,7 +77,7 @@ Finished
 ![finished](https://github.com/Wanderingidea/Formula3HP/assets/42114791/f9ce640e-6cea-4e4c-9fc3-52ee081452ac)
 
 ## Troubleshooting
-If you hear strange whistles and other noises coming out of the headphones but the amplifier is working, chances are the amplifier is oscillating.
+If you hear strange whistles or other weird noises coming out of the headphones but the amplifier is working, chances are the amplifier is oscillating.
 The following options may solve that problem:
 - try an other powersupply
 - put a lowpass filter directly before the volume potmeter:
