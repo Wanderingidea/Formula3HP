@@ -56,11 +56,24 @@ Scribble how to place the components on the perfboard:
 ![scribble](https://github.com/Wanderingidea/Formula3HP/assets/42114791/686955b2-00e0-478d-bd84-819655fadfc6)
 
 ## Constructing
+The two mono boards are 'sandwiched' to be able to fit in the small enclosure: 
 ![pcb](https://github.com/Wanderingidea/Formula3HP/assets/42114791/1b2ba66b-7da3-4893-a40a-7efcb419cb2d)
 ![pcb2](https://github.com/Wanderingidea/Formula3HP/assets/42114791/80e815ee-e60c-4fdc-81f8-d1de0a170d27)
 ![pcb3](https://github.com/Wanderingidea/Formula3HP/assets/42114791/02e514fb-9108-4528-9636-f4b992dd2b5e)
 ![pcb4](https://github.com/Wanderingidea/Formula3HP/assets/42114791/c7687410-4a56-4196-9204-9ddd41ca83a1)
 ![PCB III](https://github.com/Wanderingidea/Formula3HP/assets/42114791/f95fc15f-fec3-4d1b-9151-618dc412b291)
+
+Being a class-A amplifier it heats up a bit, but not too much. However a ventilated enclosure is recommended.<br>
+An old piece of perfboard is used as a template to drill the ventilation holes. Use a light oil or WD40 as lubrication for the drill and take your time: 
+![drill template ventilation holes](https://github.com/Wanderingidea/Formula3HP/assets/42114791/f5bde9fb-ae85-4198-98ce-5ff7408a41aa)
+After drilling all holes I brushed the aluminium. Do not use sandpaper for this but use Scotch Brite or similar, lubricated with WD40.
+![holes drilled, brushed case](https://github.com/Wanderingidea/Formula3HP/assets/42114791/22c1dd03-1e66-4f07-a598-7398deee0fc3)
+![continue1](https://github.com/Wanderingidea/Formula3HP/assets/42114791/5d19626c-91e3-41de-9f99-5133ec7447cf)
+I stripped an old cat-5 network cable to use the internal cables for audio.<br>
+All ground cabling is connected at the back of the enclosure soldered to a screw. It is not necessary to isolate the input and output from ground. 
+![continue2](https://github.com/Wanderingidea/Formula3HP/assets/42114791/f13c28b0-7867-4b94-aac4-e926e6b4dd44)
+Finished
+![finished](https://github.com/Wanderingidea/Formula3HP/assets/42114791/f9ce640e-6cea-4e4c-9fc3-52ee081452ac)
 
 ## Troubleshooting
 If you hear strange whistles and other noises coming out of the headphones, chances are the amplifier is oscillating.
