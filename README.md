@@ -5,9 +5,11 @@ This headphone amplifier built from discrete components is a big step forward fr
 
 It is very easy to build, beginner friendly I think, uses cheap components, Class-A, tolerant, and sounds fantastic. My first impression is the power and impact it has, without raising the volume.
 "Smooth", "impressed", "nice clarity and detail", "Vocals are clear and bass is good" are a few comments. I fully endorse these.
+I use it almost every day since I made it in July 2021. That proves it is a robust design.
 
+## Schematics
 The schematics for one channel: 
-![schematics](https://github.com/Wanderingidea/Formula3HP/assets/42114791/3dda5de3-4028-4926-b555-d6ee216e206e)
+![schematics](https://github.com/Wanderingidea/Formula3HP/assets/42114791/8e607d81-6428-4edb-bbc2-8e7048595dac)
 
 A stereo logaritmic potmeter of 10K-50K can be used as the volume control. RL are the headphones, 32 ohm or higher.
 
@@ -19,7 +21,8 @@ Being such a simple circuit a piece of perfboard is used, one for each channel. 
 
 I used an old 12V switched power supply without any problems. The amplifier is free of hum and noise.
 
-The following graphs largely speak for themselves:
+## Simulated measurements
+The following simulation graphs largely speak for themselves:
 ![freq](https://github.com/Wanderingidea/Formula3HP/assets/42114791/d846f060-2235-43ff-8285-8f24ddabe9b1)
 ![FFT](https://github.com/Wanderingidea/Formula3HP/assets/42114791/8869eeff-0b2d-4410-b776-b5d830df68fe)
 
@@ -47,3 +50,21 @@ Total Harmonic Distortion: 0.001106%(0.235859%)
 pout_rms: RMS(v(out)*i(rl))=0.0304637 FROM 0 TO 0.1
 ppsu: AVG(abs(v(v+)*i(v1)))=1.14035 FROM 0 TO 0.1
 ```
+## PCB
+Scribble how to place the components on the perfboard: 
+![scribble](https://github.com/Wanderingidea/Formula3HP/assets/42114791/686955b2-00e0-478d-bd84-819655fadfc6)
+
+## Constructing
+![pcb](https://github.com/Wanderingidea/Formula3HP/assets/42114791/1b2ba66b-7da3-4893-a40a-7efcb419cb2d)
+![pcb2](https://github.com/Wanderingidea/Formula3HP/assets/42114791/80e815ee-e60c-4fdc-81f8-d1de0a170d27)
+![pcb3](https://github.com/Wanderingidea/Formula3HP/assets/42114791/02e514fb-9108-4528-9636-f4b992dd2b5e)
+![pcb4](https://github.com/Wanderingidea/Formula3HP/assets/42114791/c7687410-4a56-4196-9204-9ddd41ca83a1)
+![PCB III](https://github.com/Wanderingidea/Formula3HP/assets/42114791/f95fc15f-fec3-4d1b-9151-618dc412b291)
+
+## Troubleshooting
+If you hear strange whistles and other noises coming out of the headphones, chances are the amplifier is oscillating.
+The following options may solve the problem:
+- try an other powersupply
+- put a lowpass filter directly after the volume potmeter:
+a resistor of 2.2k in series, a capacitor of 330p to ground
+- check the signal ground going to one point close to the input of the amplifier
