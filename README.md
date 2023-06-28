@@ -1,4 +1,4 @@
-# Formula3HP Headphone Amplifier
+# Lineup's Formula3HP Headphone Amplifier
 ![enclosure](https://github.com/Wanderingidea/Formula3HP/assets/42114791/b32013b2-bbdf-4d67-b492-3d04a94cd83f)
 
 This headphone amplifier built from discrete components is a big step forward from a Cmoy like headphone amplifier. It was designed by ***Lineup***, a forum member of diyaudio.com. I slightly changed it.
