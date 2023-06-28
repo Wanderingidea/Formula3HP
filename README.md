@@ -4,7 +4,7 @@
 This headphone amplifier built from discrete components is a big step forward from a Cmoy like headphone amplifier. It was designed by ***Lineup***, a forum member of diyaudio.com. I slightly changed it.
 
 It is very easy to build, beginner friendly I think, simple, uses cheap components, Class-A, tolerant, and sounds fantastic. My first impression is the power and impact it has, without raising the volume.
-"Smooth", "impressed", "nice clarity and detail", "Vocals are clear and bass is good" are a few comments. I fully endorse these.
+"Smooth", "impressed", "nice clarity and detail", "Vocals are clear and bass is good" are a few comments. Without exaggeration I fully endorse these.
 I use it almost every day since I made it in July 2021. That proves this is a robust design.
 
 ## Schematics
