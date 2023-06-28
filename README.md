@@ -63,7 +63,6 @@ The two mono boards are 'sandwiched' to be able to fit in the small enclosure:
 ![pcb2](https://github.com/Wanderingidea/Formula3HP/assets/42114791/6548a4c5-0585-4d5e-86b8-742266c1ebeb)
 ![pcb3](https://github.com/Wanderingidea/Formula3HP/assets/42114791/71e4d850-029b-4991-9651-d391bc8b6636)
 ![pcb4](https://github.com/Wanderingidea/Formula3HP/assets/42114791/5289aecf-3c63-41d9-85e3-2e30e4fbf31b)
-![PCB III](https://github.com/Wanderingidea/Formula3HP/assets/42114791/38999dc5-df08-49c9-8efb-bc6e547a5d7f)
 
 Being a class-A amplifier it heats up a bit, but not too much. However a ventilated enclosure is recommended.<br>
 An old piece of perfboard is used as a template to drill the ventilation holes. Use a light oil or WD40 as lubrication for the drill and take your time: 
