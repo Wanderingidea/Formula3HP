@@ -5,7 +5,7 @@ This headphone amplifier built from discrete components is a big step forward fr
 
 It is very easy to build, beginner friendly I think, uses cheap components, Class-A, tolerant, and sounds fantastic. My first impression is the power and impact it has, without raising the volume.
 "Smooth", "impressed", "nice clarity and detail", "Vocals are clear and bass is good" are a few comments. I fully endorse these.
-I use it almost every day since I made it in July 2021. That proves it is a robust design.
+I use it almost every day since I made it in July 2021. That proves this is a robust design.
 
 ## Schematics
 The schematics for one channel: 
