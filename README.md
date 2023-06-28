@@ -23,6 +23,7 @@ Being such a simple circuit a piece of perfboard is used, one for each channel.
 I used an old 12V switched power supply without any problems. The amplifier is free of hum and noise.
 
 ## Simulated measurements
+Attached are the LTSpice simulation files for FFT and frequency measurements.<br>
 The following simulation graphs largely speak for themselves:
 ![freq](https://github.com/Wanderingidea/Formula3HP/assets/42114791/d846f060-2235-43ff-8285-8f24ddabe9b1)
 ![FFT](https://github.com/Wanderingidea/Formula3HP/assets/42114791/8869eeff-0b2d-4410-b776-b5d830df68fe)
