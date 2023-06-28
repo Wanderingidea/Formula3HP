@@ -16,6 +16,7 @@ A stereo logaritmic potmeter of 10K-50K can be used as the volume control. RL ar
 Q1 and Q2 can be replaced with BC547 and BC557 respectively. For Q3 originally a BD139 transistor was used. Like said the circuit is pretty tolerant of using different components. I mostly used leftover components without problems.
 
 Q3 becomes a bit hot so this transistor should be mounted on a small heatsink. R1, R6 and R7 also heat up. Use 3 to 5 Watt type resistors for these.
+R1 consists of two resistors in series, 33 ohm each.
 
 Being such a simple circuit a piece of perfboard is used, one for each channel. And I added a balance control to compensate for hearing and recording problems.
 
