@@ -9,7 +9,7 @@ I use it almost every day since I made it in July 2021. That proves this is a ro
 
 ## Schematics
 The schematics for one channel: 
-![schematics](https://github.com/Wanderingidea/Formula3HP/assets/42114791/8e607d81-6428-4edb-bbc2-8e7048595dac)
+![schematics](https://github.com/Wanderingidea/Formula3HP/assets/42114791/65f5c9c0-e7a2-48b0-9922-2b63acd67aeb)
 
 A stereo logaritmic potmeter of 10K-50K can be used as the volume control. RL are the headphones, 32 ohm or higher. I use Beyerdynamics DT770 Pro 80 ohm headphones.
 
