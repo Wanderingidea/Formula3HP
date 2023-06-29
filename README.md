@@ -80,6 +80,7 @@ All ground cabling is connected at the back of the enclosure soldered to a screw
 
 Finished
 ![finished](https://github.com/Wanderingidea/Formula3HP/assets/42114791/6aca888e-5836-42b1-97b1-27ef55015564)
+<sub>the small knob is for balance control which I later removed</sub>
 
 ## Troubleshooting
 If you hear strange whistles or other weird noises coming out of the headphones but the amplifier is working, chances are the amplifier is oscillating.
