@@ -26,7 +26,7 @@ I used an old 12V switched power supply without any problems. The amplifier is f
 ## Simulated measurements
 Attached are the LTSpice simulation files for FFT and frequency measurements.<br>
 The following simulation graphs largely speak for themselves:
-### Frequency:
+### Frequency/Phase:
 ![freq](https://github.com/Wanderingidea/Formula3HP/assets/42114791/43f02a09-f3db-453b-9d8e-f08a0f296780)
 ### FFT:
 ![FFT](https://github.com/Wanderingidea/Formula3HP/assets/42114791/637edfbb-658a-42c2-b7b2-b46d2fbb8c42)
