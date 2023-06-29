@@ -85,6 +85,6 @@ The following options may solve that problem:
 - try an other powersupply
 - put a lowpass filter directly before the volume potmeter:
 a resistor of 2.2k in series, a capacitor of 330p to ground
-- put one clamp on ferrite bead around the left/right audio output wires
+- put one 'clamp on´ ferrite bead around the left/right audio output wires
 
 If you hear a hum check the ground wires going to one point close to the input of the amplifier.
