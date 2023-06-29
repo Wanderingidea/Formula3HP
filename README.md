@@ -11,8 +11,9 @@ I use it almost every day since I built it in July 2021. That proves this is a r
 The schematics for one channel: 
 ![schematics](https://github.com/Wanderingidea/Formula3HP/assets/42114791/5f742dc0-7333-423a-a232-daed372e9a10)
 
-
 A stereo logaritmic potmeter of 10K-50K can be used as the volume control. RL are the headphones, 32 ohm or higher. I use Beyerdynamics DT770 Pro 80 ohm headphones.
+
+The voltage amplification is 4x.
 
 Q1 and Q2 can be replaced with BC547(C) and BC557(C) respectively. For Q3 originally a BD139 transistor was used. Like said the circuit is pretty tolerant of using different components. I mostly used leftover components without problems.
 
