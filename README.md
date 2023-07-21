@@ -1,5 +1,5 @@
 # Lineup's Formula3HP Headphone Amplifier
-##### Warning: always beware of high sound volume, it can damage your hearing! First close your volume control and slowly increase the volume
+###### Warning: always beware of high sound volume, it can damage your hearing! First close your volume control and slowly increase the volume
 
 ![enclosure](https://github.com/Wanderingidea/Formula3HP/assets/42114791/5beeb39b-3402-41bb-8f09-ad7a01f713b2)
 
