@@ -6,7 +6,7 @@
 This headphone amplifier built from discrete components was designed by ***Lineup***, a forum member of diyaudio.com. I slightly modified it.
 
 It is very easy to build, beginner friendly I think, simple, uses cheap components, Class-A, tolerant, and sounds fantastic. My first impression is the power and impact it has, without raising the volume.
-"Smooth", "impressed", "nice clarity and detail", "Vocals are clear and bass is good" are a few comments. Without exaggeration I fully endorse these.
+"Smooth", "impressed", "nice clarity and detail", "Vocals are clear and bass is good" are a few comments. Without exaggeration I fully endorse these. This is a high quality headphone amplifier!
 I use it almost every day since I built it in July 2021. That proves this is a robust design.
 
 ## Schematics
