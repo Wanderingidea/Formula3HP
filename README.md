@@ -23,7 +23,7 @@ Q3 becomes a bit hot so this transistor should be mounted on a small heatsink. R
 
 Being such a simple circuit a piece of perfboard is used, one for each channel. 
 
-I used an old 12V switched power supply without any problems. The amplifier is free of hum and noise.
+I used an old 12V switched power supply without any problems, however a quality power supply is advised. The amplifier is free of hum and noise.
 
 ## Simulated measurements
 Attached are the LTSpice simulation files for FFT and frequency measurements.<br>
