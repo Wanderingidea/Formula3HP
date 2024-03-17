@@ -17,7 +17,7 @@ R8 are the headphones, 32 ohm or higher. I use Beyerdynamics DT770 Pro 80 ohm he
 
 The voltage amplification is 4x.
 
-Q1 and Q2 can be replaced with BC547(C) and BC557(C) respectively. For Q3 originally a BD139 transistor was used. Like said the circuit is pretty tolerant of using different components. I mostly used leftover components without problems.
+Q1 and Q2 can be replaced with BC547(C) and BC557(C) respectively. For Q3 originally a BD139 transistor was used. Like said the circuit is pretty tolerant of using different components. 
 
 Q3 becomes a bit hot so this transistor should be mounted on a small heatsink. R1 and R7 also heat up. Use 3 to 5 Watt type resistors for these.
 
