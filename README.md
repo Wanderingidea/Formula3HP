@@ -13,7 +13,7 @@ The schematics for one channel:
 ![schematics](https://github.com/Wanderingidea/Formula3HP-headphone-amplifier/assets/42114791/15b8bff8-806b-4180-9ffd-d1eeb49d375c)
 
 A stereo logaritmic potmeter of 20K is used as the volume control. I advise to use ALPS, they are more expensive but definitely worth it. It prevents vague problems.
-RL are the headphones, 32 ohm or higher. I use Beyerdynamics DT770 Pro 80 ohm headphones with a passive correction filter.
+RL are the headphones, 32 ohm or higher. I use Beyerdynamics DT770 Pro 80 ohm headphones with a ![passive correction filter](https://github.com/Wanderingidea/Beyerdynamics-DT770-Pro-80-correction-filter).
 
 The voltage amplification is 4x.
 
